@@ -1,0 +1,12 @@
+params
+0.00014553
+-0.00025758
+0.00007347
+0.00272086
+-0.00638631
+0.00560963
+Maximum error is: 4.124831242875281e-05 mm
+Minimum error is: -6.55823105701705e-05 mm
+Maximum absolute error is: 6.55823105701705e-05 mm
+Minimum absolute error is: 5.5548406800980804e-08 mm
+Mean squared error is: 2.2926823147538938e-10 mm^2

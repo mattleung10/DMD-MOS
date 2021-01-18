@@ -1,0 +1,10 @@
+params
+-0.02973005
+0.84554078
+0.21690390
+-0.81163912
+1.15599275
+Maximum error is: 0.2870378363247976 mm
+Minimum error is: -0.30616102118638366 mm
+Maximum absolute error is: 0.30616102118638366 mm
+Minimum absolute error is: 0.000817406058229303 mm

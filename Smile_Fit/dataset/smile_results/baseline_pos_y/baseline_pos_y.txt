@@ -1,0 +1,4 @@
+Maximum error is: 14.55811082466324 mm
+Minimum error is: -14.31362582528057 mm
+Maximum absolute error is: 14.55811082466324 mm
+Minimum absolute error is: 0.030848188863705772 mm
