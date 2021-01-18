@@ -1,0 +1,6 @@
+For the micromirror(s) from (x,y) = (200,375) to (x,y) = (210,385):
+Centre wavelength 0.55 µm is at pixel number (x,y) = (2011,1410)
+Minimum wavelength 0.4 µm is at pixel number x = 919
+Maximum wavelength 0.7 µm is at pixel number x = 3134
+
+
